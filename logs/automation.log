@@ -1,0 +1,10 @@
+14:00:14.418 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+14:00:21.642 [main] INFO  TestCases.TestCase1myacc - Clicked on Sign in
+14:00:27.977 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+14:01:00.099 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+14:01:00.145 [main] INFO  TestCases.TestCase1myacc - User name matched
+14:09:29.743 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+14:09:36.952 [main] INFO  TestCases.TestCase1myacc - Clicked on Sign in
+14:09:43.307 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+14:10:14.640 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+14:10:14.703 [main] INFO  TestCases.TestCase1myacc - User name matched
