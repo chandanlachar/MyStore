@@ -13,7 +13,7 @@ public class TestCase1myacc extends BaseClass{
 	@Test
 	public void MyAccount() throws InterruptedException{
 		Thread.sleep(3000);
-	
+	try {
 		HomePage hp=new HomePage(driver);
 		hp.ClickSignin();
 		Thread.sleep(3000);
@@ -50,6 +50,10 @@ public class TestCase1myacc extends BaseClass{
 		System.out.println(username);
 		Assert.assertEquals("Chandanaaa Lsx",username);
 		logger.info("User name matched");
+	}
+	catch(Exception e) {
+		Assert.fail();
+	}
 		
 	}
 	

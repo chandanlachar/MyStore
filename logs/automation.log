@@ -8,3 +8,76 @@
 14:09:43.307 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
 14:10:14.640 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
 14:10:14.703 [main] INFO  TestCases.TestCase1myacc - User name matched
+20:44:01.368 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+20:44:08.632 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+20:44:15.049 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+20:44:47.241 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+20:44:47.304 [main] INFO  TestCases.TestCase1myacc - User name matched
+21:02:47.956 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+21:02:55.292 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+21:03:01.769 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+21:03:34.119 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+21:03:34.182 [main] INFO  TestCases.TestCase1myacc - User name matched
+21:07:47.842 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+21:07:55.089 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+21:08:01.442 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+21:08:34.117 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+21:08:34.180 [main] INFO  TestCases.TestCase1myacc - User name matched
+21:15:52.247 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+21:15:59.427 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+21:16:05.861 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+21:16:38.128 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+21:16:38.254 [main] INFO  TestCases.TestCase1myacc - User name matched
+21:22:46.134 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+21:22:53.274 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+21:22:59.730 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+21:23:32.024 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+21:23:32.152 [main] INFO  TestCases.TestCase1myacc - User name matched
+21:25:45.425 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+21:25:52.734 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+21:25:59.104 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+21:26:31.282 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+21:26:31.345 [main] INFO  TestCases.TestCase1myacc - User name matched
+01:00:48.424 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+01:00:55.681 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+01:01:02.025 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+01:01:34.136 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+01:01:34.264 [main] INFO  TestCases.TestCase1myacc - User name matched
+01:05:54.704 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:06:56.118 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:12:17.454 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:25:11.869 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:25:11.913 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+01:25:16.172 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+01:25:32.837 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+01:25:32.964 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+01:29:27.480 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+01:29:34.783 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+01:29:41.212 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+01:30:14.011 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+01:30:14.138 [main] INFO  TestCases.TestCase1myacc - User name matched
+01:30:20.167 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:30:20.167 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+01:30:24.363 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+01:30:41.210 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+01:30:41.258 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+01:33:47.781 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+01:33:54.941 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+01:34:01.434 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+01:34:33.623 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+01:34:33.750 [main] INFO  TestCases.TestCase1myacc - User name matched
+01:34:39.662 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:34:39.667 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+01:34:43.860 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+01:35:00.337 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+01:35:00.384 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+01:37:25.884 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+01:37:33.144 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+01:37:39.529 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+01:38:11.797 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+01:38:11.844 [main] INFO  TestCases.TestCase1myacc - User name matched
+01:38:17.747 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+01:38:17.755 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+01:38:21.963 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+01:38:38.736 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+01:38:38.784 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In

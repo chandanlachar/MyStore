@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-17T14:09:18 IST" name="Suite" finished-at="2023-03-17T14:10:15 IST" duration-ms="56355">
+  <suite started-at="2023-03-18T01:37:16 IST" name="Suite" finished-at="2023-03-18T01:38:42 IST" duration-ms="86315">
     <groups>
     </groups>
-    <test started-at="2023-03-17T14:09:18 IST" name="Test" finished-at="2023-03-17T14:10:15 IST" duration-ms="56355">
+    <test started-at="2023-03-18T01:37:16 IST" name="Test" finished-at="2023-03-18T01:38:42 IST" duration-ms="86315">
       <class name="TestCases.TestCase1myacc">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TestCase1myacc@10683d9d]" started-at="2023-03-17T14:09:19 IST" name="setup" finished-at="2023-03-17T14:09:29 IST" duration-ms="10091" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TestCase1myacc@74e52ef6]" started-at="2023-03-18T01:37:16 IST" name="setup" finished-at="2023-03-18T01:37:25 IST" duration-ms="9277" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,36 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="MyAccount()[pri:0, instance:TestCases.TestCase1myacc@10683d9d]" started-at="2023-03-17T14:09:29 IST" name="MyAccount" finished-at="2023-03-17T14:10:14 IST" duration-ms="44925" status="PASS">
+        <test-method signature="MyAccount()[pri:0, instance:TestCases.TestCase1myacc@74e52ef6]" started-at="2023-03-18T01:37:25 IST" name="MyAccount" finished-at="2023-03-18T01:38:11 IST" duration-ms="45931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MyAccount -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase1myacc@10683d9d]" started-at="2023-03-17T14:10:14 IST" name="TearDown" finished-at="2023-03-17T14:10:15 IST" duration-ms="485" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase1myacc@74e52ef6]" started-at="2023-03-18T01:38:11 IST" name="TearDown" finished-at="2023-03-18T01:38:12 IST" duration-ms="549" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- TestCases.TestCase1myacc -->
+      <class name="TestCases.TestCase2Verifylogin">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TestCase2Verifylogin@3bf7ca37]" started-at="2023-03-18T01:38:12 IST" name="setup" finished-at="2023-03-18T01:38:17 IST" duration-ms="5339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:TestCases.TestCase2Verifylogin@3bf7ca37]" started-at="2023-03-18T01:38:17 IST" name="Login" finished-at="2023-03-18T01:38:41 IST" duration-ms="24050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase2Verifylogin@3bf7ca37]" started-at="2023-03-18T01:38:41 IST" name="TearDown" finished-at="2023-03-18T01:38:42 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TestCase2Verifylogin -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
