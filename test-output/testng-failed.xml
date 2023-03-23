@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="edge"/>
     <classes>
-      <class name="TestCases.TestCase1myacc">
+      <class name="TestCases.TestCase4BuyProduct">
         <methods>
+          <include name="BuyProduct"/>
           <include name="TearDown"/>
           <include name="setup"/>
-          <include name="MyAccount"/>
         </methods>
-      </class> <!-- TestCases.TestCase1myacc -->
+      </class> <!-- TestCases.TestCase4BuyProduct -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
