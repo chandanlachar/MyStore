@@ -239,3 +239,18 @@
 17:32:03.360 [main] INFO  TestCases.TestCase4BuyProduct - Clicked on signin
 17:32:19.837 [main] INFO  TestCases.TestCase4BuyProduct - Filled user detial 
 17:32:27.221 [main] INFO  TestCases.TestCase4BuyProduct - Searched for T-shirt
+18:09:46.067 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+18:09:53.501 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+18:10:00.131 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+18:10:32.765 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+18:10:32.903 [main] INFO  TestCases.TestCase1myacc - User name matched
+18:13:33.223 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+18:13:40.506 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+18:13:46.976 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+18:14:18.737 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+18:14:18.872 [main] INFO  TestCases.TestCase1myacc - User name matched
+18:17:45.390 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+18:17:52.701 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+18:17:59.061 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+18:18:31.385 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+18:18:31.458 [main] INFO  TestCases.TestCase1myacc - User name matched
