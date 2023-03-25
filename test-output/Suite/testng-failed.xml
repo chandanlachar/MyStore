@@ -5,7 +5,7 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="edge"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="TestCases.TestCase4BuyProduct">
         <methods>
@@ -14,6 +14,34 @@
           <include name="setup"/>
         </methods>
       </class> <!-- TestCases.TestCase4BuyProduct -->
+      <class name="TestCases.TestCase2Verifylogin">
+        <methods>
+          <include name="Login"/>
+          <include name="TearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TestCase2Verifylogin -->
+      <class name="TestCases.TestCase3SearchProduct">
+        <methods>
+          <include name="SearchProduct"/>
+          <include name="TearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TestCase3SearchProduct -->
+      <class name="TestCases.TestCase5AddtoCompare">
+        <methods>
+          <include name="TearDown"/>
+          <include name="AddtoCompare"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.TestCase5AddtoCompare -->
+      <class name="TestCases.TestCase1myacc">
+        <methods>
+          <include name="TearDown"/>
+          <include name="setup"/>
+          <include name="MyAccount"/>
+        </methods>
+      </class> <!-- TestCases.TestCase1myacc -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

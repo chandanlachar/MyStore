@@ -15,6 +15,7 @@ public class ProductPage extends BasePage{
 	@FindBy (linkText="More") WebElement Btnmore;
 	@FindBy(xpath="/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[2]/h5[1]/a[1]") WebElement mousehover;
 	
+	
 	public String gettitle2() {
 		String	title=txt.getText();
 		return title;

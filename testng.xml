@@ -7,12 +7,13 @@
    <listener class-name="utilities.ExtentReportManager"/>
  </listeners> 
   <test thread-count="5" name="Test">
-  <parameter name="browser" value="edge"/>
+  <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCases.TestCase1myacc"/> 
-       <!--   <class name="TestCases.TestCase2Verifylogin"/>  
+    <class name="TestCases.TestCase1myacc"/> 
+        <class name="TestCases.TestCase2Verifylogin"/>  
        <class name="TestCases.TestCase3SearchProduct"/>  
-       <class name="TestCases.TestCase4BuyProduct"/> -->
+       <class name="TestCases.TestCase4BuyProduct"/> 
+       <class name="TestCases.TestCase5AddtoCompare"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
