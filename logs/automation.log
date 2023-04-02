@@ -27,3 +27,112 @@
 00:34:58.204 [main] INFO  TestCases.TestCase5AddtoCompare - Tshirt add to compare
 00:35:08.766 [main] INFO  TestCases.TestCase5AddtoCompare - dress add to compare
 00:35:12.960 [main] INFO  TestCases.TestCase5AddtoCompare - procuct compared
+00:16:30.760 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+00:16:38.357 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+00:16:44.832 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+00:17:17.136 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+00:17:17.265 [main] INFO  TestCases.TestCase1myacc - User name matched
+00:17:23.411 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+00:17:23.411 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+00:17:27.597 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+00:17:44.496 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+00:17:44.543 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+00:17:53.464 [main] INFO  TestCases.TestCase3SearchProduct - My Store Successfully Opened
+00:17:53.472 [main] INFO  TestCases.TestCase3SearchProduct - My Store webportal is opened
+00:17:57.707 [main] INFO  TestCases.TestCase3SearchProduct - Clicked on signin
+00:18:14.291 [main] INFO  TestCases.TestCase3SearchProduct - Filled user detial 
+00:18:21.564 [main] INFO  TestCases.TestCase3SearchProduct - Searched for T-shirt
+00:18:21.675 [main] INFO  TestCases.TestCase3SearchProduct - fail to match
+00:18:27.638 [main] INFO  TestCases.TestCase4BuyProduct - My Store Successfully Opened
+00:18:27.642 [main] INFO  TestCases.TestCase4BuyProduct - My Store webportal is opened
+00:18:32.426 [main] INFO  TestCases.TestCase4BuyProduct - Clicked on signin
+00:18:49.083 [main] INFO  TestCases.TestCase4BuyProduct - Filled user detial 
+00:18:56.308 [main] INFO  TestCases.TestCase4BuyProduct - Searched for T-shirt
+00:19:16.400 [main] INFO  TestCases.TestCase5AddtoCompare - My Store Successfully Opened
+00:19:16.400 [main] INFO  TestCases.TestCase5AddtoCompare - My Store webportal is opened
+00:19:20.554 [main] INFO  TestCases.TestCase5AddtoCompare - Clicked on signin
+00:19:37.149 [main] INFO  TestCases.TestCase5AddtoCompare - Filled user detial 
+00:19:48.334 [main] INFO  TestCases.TestCase5AddtoCompare - Tshirt add to compare
+00:19:59.308 [main] INFO  TestCases.TestCase5AddtoCompare - dress add to compare
+00:20:03.580 [main] INFO  TestCases.TestCase5AddtoCompare - procuct compared
+21:29:01.084 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+21:29:08.233 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+21:29:14.610 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+21:29:47.127 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+21:29:47.269 [main] INFO  TestCases.TestCase1myacc - User name matched
+21:29:56.340 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+21:29:56.348 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+21:30:00.301 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+21:30:16.999 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+21:30:17.062 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+21:30:28.084 [main] INFO  TestCases.TestCase3SearchProduct - My Store Successfully Opened
+21:30:28.093 [main] INFO  TestCases.TestCase3SearchProduct - My Store webportal is opened
+21:30:32.200 [main] INFO  TestCases.TestCase3SearchProduct - Clicked on signin
+21:30:49.016 [main] INFO  TestCases.TestCase3SearchProduct - Filled user detial 
+21:30:56.284 [main] INFO  TestCases.TestCase3SearchProduct - Searched for T-shirt
+21:30:56.331 [main] INFO  TestCases.TestCase3SearchProduct - fail to match
+21:31:03.495 [main] INFO  TestCases.TestCase4BuyProduct - My Store Successfully Opened
+21:31:03.499 [main] INFO  TestCases.TestCase4BuyProduct - My Store webportal is opened
+21:31:07.795 [main] INFO  TestCases.TestCase4BuyProduct - Clicked on signin
+21:31:25.460 [main] INFO  TestCases.TestCase4BuyProduct - Filled user detial 
+21:31:32.700 [main] INFO  TestCases.TestCase4BuyProduct - Searched for T-shirt
+21:31:53.028 [main] INFO  TestCases.TestCase5AddtoCompare - My Store Successfully Opened
+21:31:53.036 [main] INFO  TestCases.TestCase5AddtoCompare - My Store webportal is opened
+21:31:57.091 [main] INFO  TestCases.TestCase5AddtoCompare - Clicked on signin
+21:32:13.876 [main] INFO  TestCases.TestCase5AddtoCompare - Filled user detial 
+21:32:25.193 [main] INFO  TestCases.TestCase5AddtoCompare - Tshirt add to compare
+21:32:35.920 [main] INFO  TestCases.TestCase5AddtoCompare - dress add to compare
+21:32:40.045 [main] INFO  TestCases.TestCase5AddtoCompare - procuct compared
+20:28:55.429 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+20:29:02.660 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+20:29:54.216 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+20:30:01.351 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+20:30:07.762 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+20:30:40.329 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+20:30:40.388 [main] INFO  TestCases.TestCase1myacc - User name matched
+20:30:47.603 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+20:30:47.608 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+20:30:51.666 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+20:31:08.549 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+20:31:08.618 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+20:31:17.744 [main] INFO  TestCases.TestCase3SearchProduct - My Store Successfully Opened
+20:31:17.753 [main] INFO  TestCases.TestCase3SearchProduct - My Store webportal is opened
+20:31:21.927 [main] INFO  TestCases.TestCase3SearchProduct - Clicked on signin
+20:31:38.660 [main] INFO  TestCases.TestCase3SearchProduct - Filled user detial 
+20:31:45.941 [main] INFO  TestCases.TestCase3SearchProduct - Searched for T-shirt
+20:31:46.069 [main] INFO  TestCases.TestCase3SearchProduct - fail to match
+20:31:52.392 [main] INFO  TestCases.TestCase4BuyProduct - My Store Successfully Opened
+20:31:52.397 [main] INFO  TestCases.TestCase4BuyProduct - My Store webportal is opened
+20:31:56.680 [main] INFO  TestCases.TestCase4BuyProduct - Clicked on signin
+20:32:13.454 [main] INFO  TestCases.TestCase4BuyProduct - Filled user detial 
+20:32:20.729 [main] INFO  TestCases.TestCase4BuyProduct - Searched for T-shirt
+20:32:43.917 [main] INFO  TestCases.TestCase5AddtoCompare - My Store Successfully Opened
+20:32:43.922 [main] INFO  TestCases.TestCase5AddtoCompare - My Store webportal is opened
+20:32:47.910 [main] INFO  TestCases.TestCase5AddtoCompare - Clicked on signin
+20:33:04.808 [main] INFO  TestCases.TestCase5AddtoCompare - Filled user detial 
+20:33:16.334 [main] INFO  TestCases.TestCase5AddtoCompare - Tshirt add to compare
+20:33:26.979 [main] INFO  TestCases.TestCase5AddtoCompare - dress add to compare
+20:33:31.427 [main] INFO  TestCases.TestCase5AddtoCompare - procuct compared
+12:51:22.736 [main] INFO  TestCases.TestCase1myacc - My Store Successfully Opened
+12:51:29.924 [main] INFO  TestCases.TestCase1myacc - Clicked on Signin
+12:51:36.347 [main] INFO  TestCases.TestCase1myacc - Clicked on Submit
+12:52:07.993 [main] INFO  TestCases.TestCase1myacc - Entered all details of user
+12:52:08.142 [main] INFO  TestCases.TestCase1myacc - User name matched
+12:52:14.626 [main] INFO  TestCases.TestCase2Verifylogin - My Store Successfully Opened
+12:52:14.630 [main] INFO  TestCases.TestCase2Verifylogin - My Store webportal is opened
+12:52:18.754 [main] INFO  TestCases.TestCase2Verifylogin - Clicked on signin
+12:52:35.443 [main] INFO  TestCases.TestCase2Verifylogin - Filled user detial 
+12:52:35.491 [main] INFO  TestCases.TestCase2Verifylogin - User Logged In
+12:52:44.199 [main] INFO  TestCases.TestCase3SearchProduct - My Store Successfully Opened
+12:52:44.204 [main] INFO  TestCases.TestCase3SearchProduct - My Store webportal is opened
+12:52:48.558 [main] INFO  TestCases.TestCase3SearchProduct - Clicked on signin
+12:53:05.267 [main] INFO  TestCases.TestCase3SearchProduct - Filled user detial 
+12:53:12.579 [main] INFO  TestCases.TestCase3SearchProduct - Searched for T-shirt
+12:53:12.709 [main] INFO  TestCases.TestCase3SearchProduct - fail to match
+12:53:18.672 [main] INFO  TestCases.TestCase4BuyProduct - My Store Successfully Opened
+12:53:18.677 [main] INFO  TestCases.TestCase4BuyProduct - My Store webportal is opened
+12:53:22.788 [main] INFO  TestCases.TestCase4BuyProduct - Clicked on signin
+12:53:39.708 [main] INFO  TestCases.TestCase4BuyProduct - Filled user detial 
+12:53:47.005 [main] INFO  TestCases.TestCase4BuyProduct - Searched for T-shirt
+12:53:59.558 [main] INFO  TestCases.TestCase5AddtoCompare - My Store Successfully Opened
+12:53:59.589 [main] INFO  TestCases.TestCase5AddtoCompare - My Store webportal is opened

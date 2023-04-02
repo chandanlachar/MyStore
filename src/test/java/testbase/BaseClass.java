@@ -15,9 +15,12 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 
@@ -37,7 +40,9 @@ public class BaseClass {
 			driver=new EdgeDriver();
 			break;
 		case "chrome":
-			driver=new ChromeDriver();
+			ChromeOptions options = new ChromeOptions();
+			options.addArguments("--remote-allow-origins=*");
+			driver=new ChromeDriver(options);
 			break;
 		case "firefox":
 			driver=new FirefoxDriver();
